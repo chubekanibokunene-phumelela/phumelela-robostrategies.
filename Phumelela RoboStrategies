@@ -1,5 +1,6 @@
 index.html
-README.md
 manifest.webmanifest
+sw.js
+README.md
 icon-192.png
 icon-512.png
